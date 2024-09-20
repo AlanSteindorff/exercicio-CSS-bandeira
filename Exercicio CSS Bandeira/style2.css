@@ -1,0 +1,20 @@
+div {
+    display: inline-block;
+    width: 217px;
+    height: 200px;
+}
+#canto {
+    border: 1px solid rgb(0, 0, 0);
+}
+.green {
+    background-color: #00B050;
+}
+.red {
+    background-color: #FF0000;
+}
+.yellow {
+    background-color: #FFFF00;
+}
+.blue {
+    background-color: #00B0F0;
+}
